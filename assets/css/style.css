@@ -87,6 +87,30 @@ body {
     background-color: #555555;
 }
 
+.slideshow1 {
+    margin-top: 17%;
+}
+
+.slideshow2 {
+    margin-top: 17%;
+}
+
+.slideshow3 {
+    margin-left: 16%;
+}
+
+.slideshow4 {
+    margin-left: 16%;
+}
+
+.slideshow5 {
+    margin-left: 15%;
+}
+
+.slideshow6 {
+    margin-top: 12%;
+}
+
 .footer {
     position: fixed;
     bottom: 0;
